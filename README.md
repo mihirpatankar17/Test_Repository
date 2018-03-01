@@ -8,4 +8,7 @@ Adding this line and making a branch
 
 Added another line to master in the meanwhile
 
+Adding line to branch 2
+
 Adding master line 2
+
